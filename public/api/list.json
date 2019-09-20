@@ -1,0 +1,22 @@
+{
+    "todoList": [
+        {
+            "todo_id": 1,
+            "todo": "Jessica and Me are going to China together",
+            "duedate": "2017-10-24",
+            "completed": false
+        },
+        {
+            "todo_id": 2,
+            "todo": "learn react",
+            "duedate": "2017-10-24",
+            "completed": false
+        },
+        {
+            "todo_id": 3,
+            "todo": "learn swimming",
+            "duedate": "2017-10-24",
+            "completed": true
+        }
+    ]
+}
